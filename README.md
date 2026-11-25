@@ -1,0 +1,2 @@
+# IEEE Conference draft
+Upload the ZIP to Overleaf as a new project. Select main.tex and pdfLaTeX. Local compilation: pdflatex main; bibtex main; pdflatex main; pdflatex main. Replace author details, TBD values, figures, and proposal language before submission. Add verified parking literature and data-source citations. This is a generic IEEEtran A4 conference draft, not a verified ICEIB-specific template. Figure files are optional until supplied.
